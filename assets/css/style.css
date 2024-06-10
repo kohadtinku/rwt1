@@ -1530,7 +1530,7 @@ body:not(.v-dark) .site-header .main-logo .dark-logo {
   body .social-network {
     position: fixed;
     z-index: 12;
-    bottom: 50px;
+    bottom: 20px;
     width: var(--s-box-left-social);
     text-align: center;
     display: inherit;
