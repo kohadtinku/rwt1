@@ -1233,7 +1233,7 @@ body:not(.v-dark) .site-header .main-logo .dark-logo {
   }
 }
 .site-header .extend-container .main-navigation ul.extend-container > li ul li {
-  font-size: 32px;
+  font-size: 25px;
   line-height: 1;
 }
 .site-header .extend-container .main-navigation ul.extend-container > li ul li a {
