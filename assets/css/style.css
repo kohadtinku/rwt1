@@ -133,7 +133,7 @@ body, .main-root {
 
 .wrapper {
   position: relative;
-  background-color: var(--bg-color);
+  background-color: #434343 ;
 }
 
 .main-root > .side-bar-full {
